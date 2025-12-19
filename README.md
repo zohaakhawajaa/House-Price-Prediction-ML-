@@ -1,4 +1,4 @@
-#House Price Prediction using Machine Learning
+
 This project demonstrates a beginner-friendly approach to predicting house prices using Python and scikit-learn. It covers the complete machine learning workflow, from data preprocessing to model evaluation and visualization.
 
 - Project Overview
