@@ -10,7 +10,7 @@ The goal of this project is to build a Linear Regression model that predicts hou
 This project is ideal for beginners who want to understand how a basic machine learning model is built and evaluated.
 
 
--Technologies Used:
+- Technologies Used:
 
 Python
 
